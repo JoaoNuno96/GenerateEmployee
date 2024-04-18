@@ -12,3 +12,4 @@ C:\Users\João Nuno\source\repos\EmployerGenerator\EmployerGenerator\obj\Debug\n
 C:\Users\João Nuno\source\repos\EmployerGenerator\EmployerGenerator\obj\Debug\net8.0\EmployerGenerator.pdb
 C:\Users\João Nuno\source\repos\EmployerGenerator\EmployerGenerator\obj\Debug\net8.0\EmployerGenerator.genruntimeconfig.cache
 C:\Users\João Nuno\source\repos\EmployerGenerator\EmployerGenerator\obj\Debug\net8.0\ref\EmployerGenerator.dll
+C:\Users\João Nuno\source\repos\EmployerGenerator\EmployerGenerator\obj\Debug\net8.0\EmployerGenerator.sourcelink.json

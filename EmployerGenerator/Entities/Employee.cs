@@ -24,13 +24,13 @@ namespace EmployerGenerator.Entities
 
         public void ProcessData()
         {
-            FirstName = _service.FirstNameGet();
-            LastName = _service.LastNameGet();
-            Job = _service.JobGet();
-            Email = _service.EmailGet();
-            Age = int.Parse(_service.AgeGet());
-            Nationality = _service.NationalityGet();
-            StrongPoint = _service.StrongPoint();
+            FirstName = _service.GetDetails("FirstName");
+            LastName = _service.GetDetails("LastName");
+            Job = _service.GetDetails("Job");
+            Email = (FirstName + LastName).ToLower() + "@teste.pt";
+            Age = int.Parse(_service.GetDetails("Age"));
+            Nationality = _service.GetDetails("Nationality");
+            StrongPoint = _service.GetDetails("StrongPoints");
         }
 
         public override string ToString()
