@@ -1,0 +1,15 @@
+Actor
+Musician
+Animal Breeders
+Architects
+Bakers
+Chemists
+Dentists
+Economists
+Mathematicians
+Medical Assistants
+Photographers
+Police Patrol Officers
+Sales Managers
+Telemarketers
+Writers

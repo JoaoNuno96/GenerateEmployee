@@ -1,0 +1,14 @@
+C:\Users\João Nuno\source\repos\EmployerGenerator\EmployerGenerator\obj\Debug\net8.0\EmployerGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Nuno\source\repos\EmployerGenerator\EmployerGenerator\obj\Debug\net8.0\EmployerGenerator.AssemblyInfoInputs.cache
+C:\Users\João Nuno\source\repos\EmployerGenerator\EmployerGenerator\obj\Debug\net8.0\EmployerGenerator.AssemblyInfo.cs
+C:\Users\João Nuno\source\repos\EmployerGenerator\EmployerGenerator\obj\Debug\net8.0\EmployerGenerator.csproj.CoreCompileInputs.cache
+C:\Users\João Nuno\source\repos\EmployerGenerator\EmployerGenerator\bin\Debug\net8.0\EmployerGenerator.exe
+C:\Users\João Nuno\source\repos\EmployerGenerator\EmployerGenerator\bin\Debug\net8.0\EmployerGenerator.deps.json
+C:\Users\João Nuno\source\repos\EmployerGenerator\EmployerGenerator\bin\Debug\net8.0\EmployerGenerator.runtimeconfig.json
+C:\Users\João Nuno\source\repos\EmployerGenerator\EmployerGenerator\bin\Debug\net8.0\EmployerGenerator.dll
+C:\Users\João Nuno\source\repos\EmployerGenerator\EmployerGenerator\bin\Debug\net8.0\EmployerGenerator.pdb
+C:\Users\João Nuno\source\repos\EmployerGenerator\EmployerGenerator\obj\Debug\net8.0\EmployerGenerator.dll
+C:\Users\João Nuno\source\repos\EmployerGenerator\EmployerGenerator\obj\Debug\net8.0\refint\EmployerGenerator.dll
+C:\Users\João Nuno\source\repos\EmployerGenerator\EmployerGenerator\obj\Debug\net8.0\EmployerGenerator.pdb
+C:\Users\João Nuno\source\repos\EmployerGenerator\EmployerGenerator\obj\Debug\net8.0\EmployerGenerator.genruntimeconfig.cache
+C:\Users\João Nuno\source\repos\EmployerGenerator\EmployerGenerator\obj\Debug\net8.0\ref\EmployerGenerator.dll
